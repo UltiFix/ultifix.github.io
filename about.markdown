@@ -3,16 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Greetings dear reader, I am Sam Hansen, an electrical engineer with a fondness for the marvels of tech. For many years building and flying drones has been a hobby of mine that has brought me both excitement and fulfillment. Beyond my professional endeavors, I hold a strong desire to give back to the open-source community. Through this site, it is my sincere hope to impart knowledge and make a meaningful impact.

@@ -18,15 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lab77
-email: 69.com
-description: >- # this means to ignore newlines until "baseurl:"
-  TODO
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tweet
+linkedin_username: samuel-hansen-9a7596170
 github_username:  UltiFix
-
 # Build settings
 theme: minima
 plugins:
