@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://lab77.dev/ # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: samuel-hansen-9a7596170
 github_username:  UltiFix
 # Build settings
