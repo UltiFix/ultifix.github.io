@@ -32,9 +32,16 @@ Provided free of charge, is Solidworks files for all 3D printed parts pictured
 
 1. [832TC Thermally Conductive Epoxy from MG Chemicals](https://amzn.to/3JF7ZQF)
 2. [HGLRC Zeus VTX](https://amzn.to/3JO4ck9)
-3. EMAX ECOII 2306 1900kv
-4. JHEMCU GHF405 PRO BLHELI_S 45A 3-6S AIO
-5. [Crossfire Nano RX](https://amzn.to/3laai3R)
-6. TBS Source One V5 Frame
+3. [Caddx Ratel 2](https://amzn.to/3YnFOtw)
+4. EMAX ECOII 2306 1900kv
+5. JHEMCU GHF405 PRO BLHELI_S 45A 3-6S AIO
+6. [Crossfire Nano RX](https://amzn.to/3laai3R)
+7. TBS Source One V5 Frame
 
+# Build Notes
+
+## Caddx Ratel V2 Notes
+
+Camera Lens Watertight, thus only need to epoxy to edge of lens
+![Alt Text]({{ "/assets/6.jpg" | relative_url }})
 
